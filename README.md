@@ -9,3 +9,6 @@ If you are interested in collaborating with us or attending one of our meetings,
 
 ## Repository
 This Github repository has been set up to share our club code and automation. We encourage all members to contribute and collaborate on projects. Let's work together to brew some great beer!
+
+## Connect with us!
+If you are part of another local zymurgy club, feel free to connect with us and share or fork the repository. We are always looking for ways to collaborate and share knowledge with other enthusiasts in the community. Let's work together to make great beer and further the art and science of brewing!
